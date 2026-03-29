@@ -26,4 +26,5 @@ This project demonstrates the complete RAG pipeline using **LangChain, FAISS, an
 
 ---
 
-## 📂 Project Structure
+Author 
+Shivam Gupta
