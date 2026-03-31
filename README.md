@@ -22,7 +22,7 @@ This project demonstrates the complete RAG pipeline using **LangChain, FAISS, an
 - FAISS (Vector Database)
 - HuggingFace Embeddings
 - Ollama (Local LLM)
-- Streamlit
+- Streamlit(UI)
 
 ---
 
